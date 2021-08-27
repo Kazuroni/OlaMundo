@@ -8,6 +8,7 @@ namespace OlaMundo
         {
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Olá Mundo,me chamo Christyan");
+            Console.ResetColor();
         }
     }
 }
